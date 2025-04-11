@@ -1,7 +1,6 @@
 # Audio Transcription Web App
 
 A simple, browser-based application for transcribing audio files using the Speechmatics API.
-![Speechmatics Transcription Web App](https://static.wixstatic.com/media/12837a_127559fe3a0846898706ae2f65d3acb1~mv2.jpg)
 ## Features
 
 - Record your meeting or conversation with client on phone
